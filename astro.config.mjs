@@ -24,5 +24,5 @@ export default defineConfig({
     mdx(),
     react()
   ],
-  site: 'https://blog.juliustellar.github.io/'
+  site: 'https://juliustellar.github.io/julius-blog/'
 })
